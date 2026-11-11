@@ -42,7 +42,7 @@ The tool uses only the Python standard library — no `pip install` needed.
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/<your-username>/android-bugbounty.git
+git clone https://github.com/whoami592/Android_BugBounty.git
 cd android-bugbounty
 ```
 
